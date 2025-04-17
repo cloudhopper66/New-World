@@ -7,4 +7,5 @@
  https://app.daily.dev/posts/i-move-the-crazy-cattle-3d-game-to-the-website-pjxzjpzle  
  https://bsky.app/profile/crazycattle3d.bsky.social   
  https://simplelister.com/profile/1744738668625x633462836557893600
+ https://startupfa.me/s/crazy-cattle-3d
 
